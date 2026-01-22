@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
         <form onSubmit={handleSubmit}>
           <div>
-            <label htmlFor="name">Master test third Name:</label>
+            <label htmlFor="name">Master test super third Name:</label>
             <input
               type="text"
               id="name"
