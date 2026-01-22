@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
         <form onSubmit={handleSubmit}>
           <div>
-            <label htmlFor="name">Master third Name:</label>
+            <label htmlFor="name">Master test third Name:</label>
             <input
               type="text"
               id="name"
@@ -24,7 +24,7 @@ function App() {
             />
           </div>
           <div>
-            <label htmlFor="email">Master Email:</label>
+            <label htmlFor="email">Master Third Email:</label>
             <input
               type="email"
               id="email"
