@@ -12,7 +12,7 @@ function Login() {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label htmlFor="name">Name:</label>
+        <label htmlFor="name">Test Name:</label>
         <input
           type="text"
           id="name"
@@ -21,7 +21,7 @@ function Login() {
         />
       </div>
       <div>
-        <label htmlFor="email">Email:</label>
+        <label htmlFor="email">Test Email:</label>
         <input
           type="email"
           id="email"
